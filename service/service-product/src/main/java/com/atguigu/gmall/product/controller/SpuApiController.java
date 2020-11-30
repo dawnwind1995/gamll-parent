@@ -48,6 +48,4 @@ public class SpuApiController {
         spuService.saveSpuInfo(spuInfo);
         return Result.ok();
     }
-
-
 }
